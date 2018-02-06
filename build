@@ -6,3 +6,6 @@ ls -al
 git pull
 echo "After git pull ..."
 ls -al
+
+echo "Create an empty file"
+echo "text" > my-artifact.html
