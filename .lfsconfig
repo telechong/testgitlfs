@@ -1,9 +1,2 @@
 [lfs]
-	url = https://127.0.0.1:9999/
-
-[http]
-    sslverify = false
-
-[lfs "https://127.0.0.1:9999/"]
-	locksverify = false
-	access = basic
+    url = "http://localhost:8081/artifactory/api/lfs/gitlfs"
