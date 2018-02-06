@@ -2,3 +2,7 @@
 
 echo "Building ..."
 ls -al
+
+git pull
+echo "After git pull ..."
+ls -al
